@@ -1,0 +1,29 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+
+div {
+    border-bottom: 5px solid black;
+}
+.addClass button {
+    width: 50px;
+}
+.red {
+    background-color: red;
+}
+.hide button {
+    width: 50px;
+}
+.three button {
+    width: 50px;
+}
+.four button {
+    width: 50px;
+}
+.five button {
+    width: 50px;
+}
+.six button {
+    width: 50px;
+}
